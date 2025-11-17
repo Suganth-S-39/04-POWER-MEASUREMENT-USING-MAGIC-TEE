@@ -62,18 +62,15 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 
 **F.Observation:** 
 **Isolation measurement** 
-![WhatsApp Image 2025-11-11 at 15 33 46_de21de21](https://github.com/user-attachments/assets/49f61d8b-bd2e-448b-859c-eec5222ad128)
+<img width="1057" height="251" alt="image" src="https://github.com/user-attachments/assets/556ee0d8-645c-4689-ad34-52695eb54709" />
 
+**G. Analysis of Results:**
 
 **Measurement of power division** 
 
 ![WhatsApp Image 2025-11-11 at 15 35 06_31cd672b](https://github.com/user-attachments/assets/ef111254-859f-42a3-b7a3-0c9bcc47cf0a)
 
-
-
-
 **H.Conclusions:** 
-
 
 Voltage measureing using Magic Tee is executed Succesfully. Isolation between E and H arms = 116 mv
 Isolation between E and H arms (dB) = (A1 – A2) dB
@@ -81,12 +78,10 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 
 **Precautions:**
 
-
 •	Check the connections before switching on the kit.
 •	Connections should be done properly.
 •	Observation should be taken properly.
 
 **Result:**
 
-
-thus the isolation between E and Harms of the magic tee is found and is experimented using the given tools
+Thus, the isolation between E and Harms of the magic tee is found and is experimented using the given tools
