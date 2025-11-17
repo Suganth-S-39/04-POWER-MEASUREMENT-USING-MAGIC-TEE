@@ -1,4 +1,5 @@
-# 04-POWER-MEASUREMENT-USING-MAGIC-TEE4
+# 04-POWER-MEASUREMENT-USING-MAGIC-TEE
+
 **A.Aim:**
 
 To measure isolation between E and Harms of the magic tee and Demonstrate 3 dB powerdivision in the arm of magic tree.
@@ -39,7 +40,7 @@ If the power flowing into E arm is taken as PE and power flowing out of H-arm as
 The power fed in either the E or H arm should divide itself equally in both the side arms, when the opposite port is match terminated. If we designate the power entering the E arm as PE and power in side arms as PC1 and PC2 then the ratio of the power coupled in side arms to that entering inthe E-arm is given by the relation.
 Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 
-**E.Procedure: General**
+**E.	Procedure: General**
 
 1.	Set up the equipment as shown in fig 9a.
 2.	Keep the control knobs of Klystron Power Supply as belowMode Switch	: AM
@@ -60,19 +61,23 @@ Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 The difference in the attenuator settings gives the ration of the
 power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
-**F.Observation:** 
-**Isolation measurement** 
-<img width="1057" height="251" alt="image" src="https://github.com/user-attachments/assets/556ee0d8-645c-4689-ad34-52695eb54709" />
+**F.	Observation:**
 
-**G. Analysis of Results:**
+**Isolation measurement** (Tabulation)
 
 **Measurement of power division** 
 
-![WhatsApp Image 2025-11-11 at 15 35 06_31cd672b](https://github.com/user-attachments/assets/ef111254-859f-42a3-b7a3-0c9bcc47cf0a)
+![WhatsApp Image 2025-11-06 at 08 56 03_2052feda](https://github.com/user-attachments/assets/54eb8148-ba8e-4846-a11e-83823fc7267a)
 
-**H.Conclusions:** 
 
-Voltage measureing using Magic Tee is executed Succesfully. Isolation between E and H arms = 116 mv
+
+**G.	Analysis of Results: (Write your own)**
+
+![WhatsApp Image 2025-11-06 at 08 56 02_a8e723f1](https://github.com/user-attachments/assets/b9a362ae-ba6b-4847-8bd8-f4ef88b1e949)
+
+
+**H.	Conclusions: (Write your Own)**
+
 Isolation between E and H arms (dB) = (A1 – A2) dB
 Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 
@@ -84,4 +89,4 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 
 **Result:**
 
-Thus, the isolation between E and Harms of the magic tee is found and is experimented using the given tools
+The isolation between the E and H arms of the magic tee was successfully measured and found to be within the expected range, indicating proper isolation between the ports. The power division between the collinear arms was observed to be approximately 3 dB, confirming that the magic tee equally divides the input power into two arms with minimal loss. Thus, the magic tee functions effectively as a hybrid junction for power division and signal isolation in microwave systems.
