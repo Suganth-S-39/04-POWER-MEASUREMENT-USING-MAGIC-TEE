@@ -1,5 +1,4 @@
-# 04-POWER-MEASUREMENT-USING-MAGIC-TEE
-
+# 04-POWER-MEASUREMENT-USING-MAGIC-TEE4
 **A.Aim:**
 
 To measure isolation between E and Harms of the magic tee and Demonstrate 3 dB powerdivision in the arm of magic tree.
@@ -40,7 +39,7 @@ If the power flowing into E arm is taken as PE and power flowing out of H-arm as
 The power fed in either the E or H arm should divide itself equally in both the side arms, when the opposite port is match terminated. If we designate the power entering the E arm as PE and power in side arms as PC1 and PC2 then the ratio of the power coupled in side arms to that entering inthe E-arm is given by the relation.
 Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 
-**E.	Procedure: General**
+**E.Procedure: General**
 
 1.	Set up the equipment as shown in fig 9a.
 2.	Keep the control knobs of Klystron Power Supply as belowMode Switch	: AM
@@ -61,26 +60,33 @@ Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 The difference in the attenuator settings gives the ration of the
 power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
-**F.	Observation: ( Include your own Table relevant to the Experiment)**
-
-**Isolation measurement** (Tabulation)
-
-**Measurement of power division** (Tabulation)
+**F.Observation:** 
+**Isolation measurement** 
+![WhatsApp Image 2025-11-11 at 15 33 46_de21de21](https://github.com/user-attachments/assets/49f61d8b-bd2e-448b-859c-eec5222ad128)
 
 
-**G.	Analysis of Results: (Write your own)**
+**Measurement of power division** 
 
-(Include sample calculations/Display/plot/typical graph)
+![WhatsApp Image 2025-11-11 at 15 35 06_31cd672b](https://github.com/user-attachments/assets/ef111254-859f-42a3-b7a3-0c9bcc47cf0a)
 
-**H.	Conclusions: (Write your Own)**
 
+
+
+**H.Conclusions:** 
+
+
+Voltage measureing using Magic Tee is executed Succesfully. Isolation between E and H arms = 116 mv
 Isolation between E and H arms (dB) = (A1 – A2) dB
 Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 
 **Precautions:**
+
 
 •	Check the connections before switching on the kit.
 •	Connections should be done properly.
 •	Observation should be taken properly.
 
 **Result:**
+
+
+thus the isolation between E and Harms of the magic tee is found and is experimented using the given tools
